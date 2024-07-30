@@ -2,7 +2,7 @@
 
 **¡Desafía tus habilidades CSS!**
 
-Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados para poner a prueba tus conocimientos sobre la propiedad display en CSS. A través de estos desafíos, fortalecerás tu comprensión de cómo estructurar y organizar el contenido de una página web de manera efectiva y atractiva.
+Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados para poner a prueba tus conocimientos sobre spacing en CSS. A través de estos desafíos, fortalecerás tu comprensión de cómo estructurar y organizar el contenido de una página web de manera efectiva y atractiva.
 
 **¿Are you ready para demostrar tu dominio? ¡Manos a la obra!**
 
