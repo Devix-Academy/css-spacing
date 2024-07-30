@@ -44,6 +44,8 @@ Diseña un formulario que contenga un input de texto, un textarea y un botón de
 ### Ejercicio # 5: La sección de contenido adaptable
 Crea una sección (usando la etiqueta `<section>`) que contenga un encabezado h3, dos párrafos y una imagen. La sección debe tener un padding de 5% en todos los lados. El encabezado debe tener un margen inferior del 3% del ancho de su contenedor. Los párrafos deben tener un margen inferior de 20 píxeles, excepto el último. La imagen debe tener un margen superior e inferior del 2% del alto de la ventana (viewport height).
 
+> Pista: Combina unidades fijas (px) con unidades relativas (% y vh). Usa selectores específicos para aplicar márgenes diferentes a los párrafos. Para la imagen, considera usar margin-top y margin-bottom con unidades vh.
+
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
 **¡Confío en tus habilidades!** Adelante, demuestra tu dominio  en CSS y lleva tus proyectos web al siguiente nivel.
